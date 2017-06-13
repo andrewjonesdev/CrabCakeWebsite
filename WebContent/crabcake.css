@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+
+@font-face {
+    font-family: aquatico;
+    src: url(Aquatico-Regular.otf);
+}
+
+ body {
+ 	background-color:rgba(0, 0, 0, 0.5);
+	background-image: url("https://previews.123rf.com/images/skyclick/skyclick1610/skyclick161000039/66163146-Ocean-waves-pattern-seamless-background-hand-drawn-Asian-style-Stock-Vector.jpg");
+	background-repeat: repeat-y;
+	background-repeat: repeat-x;
+	font-family: aquatico;
+	
+}
+#opaque{
+	-webkit-text-stroke: .5px red;
+}
